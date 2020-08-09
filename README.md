@@ -1,5 +1,5 @@
 # Personal Mi Card
 
-## Our Goal
+## Goal
 
 Personal Mi card. Sample gotten from appbrewery Flutter tutorial
